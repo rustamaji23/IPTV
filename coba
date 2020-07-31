@@ -1,809 +1,531 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV HD
-http://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV
-http://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC HD
-http://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC
-http://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI HD
-http://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI
-http://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS HD
-http://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS
-http://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",NET
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS 7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS TV
-http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", RTV
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", METRO TV
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", KOMPAS TV
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI
-http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI NASIONAL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", JTV
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", BALI TV
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", CHANNEL 4U
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4a0fb5ee-e514-4eec-8917-50a35533ba4c)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", USEE PRIME
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", USEE PHOTO
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RUANG TERAMPIL
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO NAURA
-http://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO RUUMA
-http://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_03.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GAAYA
-http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GOSHOP
-http://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO AWANI
-http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO SURIA
-http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", DRAMA SANGAT
-http://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV1
-http://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV2
-http://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV3
-http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV7
-http://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV8
-http://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV9
-http://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL IMAN
-http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL-BAHJAH TV
-http://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", Hadi TV 2
-http://38.96.175.40:1935/liveTrans//channel2_800k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RELIGI", MTA TV
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", TAWAF TV
-http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIMAX
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIPLUS
-http://210.210.155.35:80/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", CARTOON NETWORK
-http://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", DISNEY XD
-http://cdn-laos.workpoint.news/hd-disneyxd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", DISNEY CHANNEL
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", BOOMERANG
-http://cdn-laos.workpoint.news/sd-boomerang_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", POGO
-http://202.163.117.6:9981/stream/channelid/872564616
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", MAX2U
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(50332677-b1c4-47d4-ab87-70956e2d1d1b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Rooster Teeth TV
-http://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TCT KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TVO KIDS
-http://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV MIDNIGHT
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", WF
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", HD Fashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO HD
-http://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO 2
-http://www.fanmingming.cn/hls/natlgeo.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
-http://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO Wild
-http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO WILD HD
-http://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KNOWLEDGE", TECHSTORM
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", ANIMAL PLANET HD
-http://cdn-laos.workpoint.news/sd-animalplaneteng_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC EARTH HD
-http://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC LIFESTYLE
-http://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC Cbeebies
-http://51.52.156.22:8888/http/003
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DMAX
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DISCOVERY HD
-http://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DISCOVERY HISTORY
-http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", HISTORY
-http://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Artist Aloud
-http://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/index_2128_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DIL SE
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Joo Music
-http://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Euro Indie Music Chart
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Animation
-http://www.djing.com/tv/animation.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Classics
-http://www.djing.com/tv/classics.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Dancefloor
-http://www.djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Hits
-http://www.djing.com/tv/hits.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Karaoke
-http://www.djing.com/tv/karaoke.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Live
-http://www.djing.com/tv/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Underground
-http://www.djing.com/tv/underground.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Portal Foxmix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", MTV ASIA
-http://cdn-laos.workpoint.news/sd-mtvasia_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", MTV LIVE
-http://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN HD
-http://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN
-http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN BLACK (HU/RO)
-http://193.33.39.108:8111/11003
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN WHITE (HU/RO)
-http://193.33.39.108:8111/11002
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT ENTERTAIMENT
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT EXTREME
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HI! INDO
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SINEMA INDONESIA
-http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",TIC
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CELESTIAL MOVIES
-http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CINEMA WORLD
-http://210.210.155.35:80/uq2663/h/h04/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HITS
-http://210.210.155.35:80/uq2663/h/h37/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",K+
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",& Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",& Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SONY HD
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SONY SET MAX HD
-http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SONY GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",ZEE BIOSKOP
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMAX (HU/RO)
-http://193.33.39.108:8107/30709
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMAX 2 (HU/RO)
-http://193.33.39.108:8115/30914
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", FOX HD
-http://cdn-laos.workpoint.news/hd-fox_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", FOX
-http://cdn-laos.workpoint.news/sd-fox_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", FOX ACTION HD
-http://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO
-http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO 2
-http://136.243.177.164/HBO2/index.m3u8?h=308R7a2QNxrbpmxlKw8Ahw
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO 3
-http://136.243.177.164/HBO3/index.m3u8?h=teJ1EKfjMkWIRvFHlkJG-Q
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HI! INDO
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", TIC
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", BEIN 1
-http://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", BEIN 2
-http://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", BT SPORT 1 HD
-http://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", BT SPORT 2 HD
-http://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",EUROSPORT 1
-http://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",EUROSPORT 2
-http://cdn-laos.workpoint.news/uk-eurosport2_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 1
-http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 2
-http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",FOX SPORTS 2 (opt.2)
-http://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 3
-http://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Mola Sport Free
-http://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", NBA HD
-http://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", RTM SPORT
-http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL HD
-http://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL
-http://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP 2
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SERI A ITALIA
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 1
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 2
-http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 3
-http://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE PREMIER LEAGUE 1
-http://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE PREMIER LEAGUE 2
-http://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE PREMIER LEAGUE 3
-http://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE PREMIER LEAGUE 4
-http://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE PREMIER LEAGUE 5
-http://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE SPORT 1 HD
-http://cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE SPORT 2
-http://cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE SPORT 3 HD
-http://cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE SPORT 4 HD
-http://cdn-laos.workpoint.news/hd-tsport4_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE SPORT 5
-http://cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TRUE SPORT 6
-http://cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET HD
-http://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET 1
-http://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET 2
-http://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET 3
-http://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET 4
-http://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET 5
-http://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SKYNET 6
-http://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES", BEGIN AGAIN
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/11990/19084/2c9c55d7-93e9-4604-8f6c-c366e9b555ba/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES", CLOUD ATLAS
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/dd6cfe49-53c0-455f-bc4c-bd7e8b09c7e6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES", IMAGINAERUM
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d-3005cb4e04ec/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES", PREDESTINATION
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", A MONSTER CALLS
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", ESCAPE PLAN
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e27947a8-4d65-4693-b485-903b69d674e4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", THE IMPOSSIBLE
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/82ac8bc6-5179-4ceb-b9a2-06e0c360aad6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", THE HOST
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", WARM BODIES
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", YOU NOW SEE ME
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", YOU NOW SEE ME 2
-http://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUNYI(2019)
-http://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || POCONG THE ORIGIN (2019)
-http://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || PUSAKA (2019)
-http://bitball.b-cdn.net/movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROY KIYOSHI : THE UNTOLD STORY (2019)
-http://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DANUR 3 : SUNYARURI (2019)
-http://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROH FASIK (2019)
-http://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || MATA BATIN 2 (2019)
-http://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SEKTE (2019)
-http://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || REVA : GUNA GUNA (2019)
-http://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RASUK (2018)
-http://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BISISKAN IBLIS (2018)
-http://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEMBANG KANTIL (2018)
-http://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || JAGA POCONG (2018)
-http://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BAYI GAIB (2018)
-http://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUZANNA : BURIED A LIVE (2018)
-http://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SESAT (2018)
-http://bitball.b-cdn.net/movies/indonesia/sesat.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BISIKAN IBLIS (2018)
-http://bitball.b-cdn.net/movies/indonesia/bisikaniblis.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ARWAH TUMBAL NYAI (2018)
-http://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || GASING TENGKORAK (2017)
-http://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RUMAH MALAIKAT (2016)
-http://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KAKAK (2015)
-http://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DANAU HITAM (2014)
-http://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || MALL KLENDER (2014)
-http://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DRAKULA CINTA (2014)
-http://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SARANG HANTU JAKARTA (2014)
-http://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KAFAN SUNDEL BOLONG (2012)
-http://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BANGKITNYA SISTER GEPENG (2012)
-http://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RUMAH BEKAS KUBURAN (2012)
-http://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ADA APA DENGAN POCONG (2011)
-http://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || POCONG JUGA POCONG (2011)
-http://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEPELET KUNITLANAK (2011)
-http://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KALUNG JELANGKUNG (2011)
-http://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || 13 CARA MEMANGGIL SETAN (2011)
-http://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Prodigy (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-29-2020/The.Prodigy.2019.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Riki-Oh: The Story of Ricky (1991)
-http://bitball.b-cdn.net/movies/APRIL/04-28-2020/Riki-Oh.The.Story.of.Ricky.1991.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Cold Prey II (2008)
-http://bitball.b-cdn.net/movies/APRIL/04-28-2020/Fritt.Vilt.2.2008.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", My Soul to Take (2010)
-http://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Hannibal (2001)
-http://bitball.b-cdn.net/movies/APRIL/04-27-2020/Hannibal.2001.REMASTERED.720p.BluRay.x264-IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Dark (2018)
-http://bitball.se/movies/APRIL/04-26-2020/The.Dark.2018.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Polaroid (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-26-2020/Polaroid.2019.720p.BluRay.x264-IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", A Girl Walks Home Alone at Night (2014)
-http://bitball.b-cdn.net/movies/APRIL/04-26-2020/A.Girl.Walks.Home.Alone.at.Night.2014.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Shallows (2016)
-http://bitball.b-cdn.net/movies/APRIL/04-25-2020/The.Shallows.2016.720p.UHD.BluRay.x264-IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Killer Sofa (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-25-2020/Killer.Sofa.2019.BluRay.720p.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Flatliners (1990)
-http://bitball.b-cdn.net/movies/APRIL/04-25-2020/Flatliners.1990.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Blade II (2002)
-http://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.II.2002.BluRay.720p.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Blade (1998)
-http://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.1998.BluRay.720p.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Perfection (2018)
-http://bitball.b-cdn.net/movies/APRIL/04-24-2020/The.Perfection.2018.480p.NF.WEB-DL.x264.300MB-IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Zoo (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Den (2013)
-http://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Salò -  or the 120 Days of Sodom (1975)
-http://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Poker Night (2014)
-http://bitball.se/movies/APRIL/04-22-2020/Poker.Night.2014.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Await Further Instructions (2018)
-http://bitball.b-cdn.net/movies/APRIL/04-21-2020/Await.Further.Instructions.2018.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Us (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-20-2020/us.2019.480p.bluray.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Funny Games (1997)
-http://bitball.b-cdn.net/movies/APRIL/04-20-2020/Funny.Games.1997.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Another (2012)
-http://bitball.b-cdn.net/movies/APRIL/04-20-2020/ANOTHER.2012.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", 12 Feet Deep (2017)
-http://bitball.b-cdn.net/movies/APRIL/04-20-2020/12.Feet.Deep.2017.720p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Ginger Snaps (2000)
-http://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Evil Angel (2009)
-http://bitball.b-cdn.net/movies/APRIL/04-19-2020/Evil.Angel.2009.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Near Dark (1987)
-http://bitball.b-cdn.net/movies/APRIL/04-18-2020/Near.Dark.1987.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Mutant Girls Squad (2010)
-http://bitball.b-cdn.net/movies/APRIL/04-18-2020/Mutant.Girls.Squad.2010.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Leprechaun Returns (2018)
-http://bitball.b-cdn.net/movies/APRIL/04-18-2020/Leprechaun.Returns.2018.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Isabelle (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-17-2020/Isabelle.2019.480p.WEB-HD.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Tokyo Slaves (2014)
-http://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tokyo.Slaves.2014.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Innocents (1961)
-http://bitball.b-cdn.net/movies/APRIL/04-14-2020/The.Innocents.1961.REMASTERED.480p.BluRay.X264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Antichrist (2009)
-http://bitball.b-cdn.net/movies/APRIL/04-14-2020/Antichrist.2009.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Book of Monsters (2018)
-http://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Silent House (2011)
-http://bitball.b-cdn.net/movies/APRIL/04-11-2020/Silent.House.2011.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Piranha (1978)
-http://bitball.b-cdn.net/movies/APRIL/04-11-2020/Piranha.1978.Remastered.720p.BluRay.x26.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Horns (2013)
-http://bitball.b-cdn.net/movies/APRIL/04-08-2020/Horns.2013.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Inhuman Kiss (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-06-2020/Inhuman.Kiss.2019.480p.NF.WEB-DL.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Granny of the Dead (2017)
-http://bitball.b-cdn.net/movies/APRIL/04-03-2020/Granny.of.the.Dead.2017.480p.WEB-HD.x264.300MB-IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Vampire Hunter D: Bloodlust (2000)
-http://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/Vampire.Hunter.D.Bloodlust.2000.480p.BluRay.x264.300MB-Pahe.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Deception of the Novelist (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-02-2020/Deception.Of.The.Novelist.2019.720p.BluRay.X264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Satu Suro (2019)
-http://bitball.se/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", MatiAnak (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Makmum (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-21-2020/Makmum.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Sekte (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-17-2020/Sekte.2019.WEB-HD.720p.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Reuni Z (2018)
-http://bitball.b-cdn.net/movies/APRIL/04-16-2020/Reuni.Z.2018.720p.WEB-DL.AAC2.0.H.264-IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Tembang Lingsir (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tembang.Lingsir.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Reva: Guna Guna (2019)
-http://bitball.b-cdn.net/movies/APRIL/04-12-2020/Reva.Guna.Guna.2019.WEBRip.720p.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Serpent and the Rainbow (1988)
-http://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Serpent.And.The.Rainbow.1988.REMASTERED.720p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Clinic (2010)
-http://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Clinic.2010.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="http://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Munafik 2 (2018)
-http://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
+#Local Channel
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel",  TVRI (100)
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",  Metro TV (101)
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",  Metro TV HD (915)
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Local Channel",  CNN Indonesia (102)
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Local Channel",  CNN Indonesia HD (913)
+rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="Local Channel",  TV One (103)
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="Local Channel",  Trans TV (104)
+rtp://@239.1.1.27:8136
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="Local Channel",  Trans TV HD (911)
+rtp://@239.1.1.194:9138
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",  Trans 7 (105)
+rtp://@239.1.1.29:8148
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",  Trans 7 HD (912)
+rtp://@239.1.1.222:9306
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",  SCTV (107)
+rtp://@239.1.1.21:8100
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",  SCTV HD (914)
+rtp://@239.1.2.58:8324
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",  ANTV (108)
+rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",  Indosiar (109)
+rtp://@239.1.1.17:8076
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",  MNC Shop (110)
+rtp://@239.1.1.36:8190
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",  Net TV (112)
+rtp://@239.1.1.119:8688
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",  Net TV HD (910)
+rtp://@239.1.1.158:8922
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Local Channel",  Kompas TV (114)
+rtp://@239.1.1.197:9156
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local Channel",  Berita Satu (115)
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local Channel",  Jak TV (116)
+rtp://@239.1.1.107:8616
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel",  RTV (118)
+rtp://@239.1.1.69:8388
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="Local Channel",  IDX Channel (119)
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",  Daai TV (120)
+rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6vKYJ1/atv.png" group-title="Local Channel",  ATV Trial (121)
+rtsp://10.6.41.20:554/live/ch20050515541243694190.sdp
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",  Bali TV (122)
+rtp://@239.1.1.72:8406
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",  JTV (123)
+rtp://@239.1.1.6:8010
+#EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="Local Channel",  Antara (124)
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",  MYTV (125)
+rtp://@239.1.1.162:8946
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel Trial (126)
+rtp://@239.1.2.86:8304
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
+rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",  RRI Net (130)
+rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",  JITV (131)
+rtp://@239.1.1.238:9400
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",  Jowo (137)
+rtp://@239.1.2.6:8000
+#EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",  Jowo HD (917)
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Local Channel",  Insert (503)
+rtp://@239.1.1.113:8652
+
+===
+
+#Movie
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Movie",  Movies Indihome (2)
+rtp://@239.1.2.223:9268
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO (601)
+rtp://@239.1.1.95:8544
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO HD (991)
+rtp://@239.1.1.203:9192
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature (602)
+rtp://@239.1.1.93:8532
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature HD (993)
+rtp://@239.1.2.249:9378
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax (603)
+rtp://@239.1.1.87:8496
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax HD (996)
+rtp://@239.1.2.247:9372
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits (604)
+rtp://@239.1.1.91:8520
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits HD (992)
+rtp://@239.1.1.215:9264
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family (605)
+rtp://@239.1.1.89:8508
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family HD (994)
+rtp://@239.1.2.245:9366
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="Movie",  Fox Movie (607)
+rtp://@239.1.1.11:8040
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="Movie",  Fox Movie HD (998)
+rtp://@239.1.1.211:9240
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="Movie",  Fox Family Movie (608)
+rtp://@239.1.1.175:9024
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="Movie",  Fox Family Movie HD (997)
+rtp://@239.1.1.237:9396
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",  Fox Action Movie (609)
+rtp://@239.1.1.125:8724
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",  Fox Action Movie HD (999)
+rtp://@239.1.1.190:9116
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_thrill_big.png" group-title="Movie",  Thrill (610)
+rtp://@239.1.1.83:8472
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" group-title="Movie",  Celestial Movie (611)
+rtp://@239.1.1.97:8556
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Movie",  TVN Movie (613)
+rtp://@239.1.1.61:8340
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Movie",  TVN Movie HD (969)
+rtp://@239.1.2.72:8408
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" group-title="Movie",  Z Bioskop (614)
+rtp://@239.1.1.129:8748
+#EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" group-title="Movie",  Cinema World (615)
+rtp://@239.1.1.189:9108
+#EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" group-title="Movie",  Cinema World HD (925)
+rtp://@239.1.2.80:8578
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy (617)
+rtp://@239.1.1.184:8778
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" group-title="Movie",  Bioskop Indonesia (618)
+rtp://@239.1.1.226:9332
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="Movie",  Flik (619)
+rtp://@239.1.1.71:8400
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="Movie",  Flik HD (990)
+rtp://@239.1.1.239:9276
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" group-title="Movie",  IMC (620)
+rtp://@239.1.2.20:8094
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy Movie Premium (621)
+rtp://@239.1.2.240:9390
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",  Star Chinese Movie (622)
+rtp://@239.1.1.131:8760
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",  Star Chinese Movie HD (968)
+rtp://@239.1.2.231:9336
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" group-title="Movie",  Star Chinese Movie Legend (623)
+rtp://@239.1.1.151:8880
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movie",  Red (626)
+rtp://@239.1.1.114:8658
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movie",  Red HD (995)
+rtp://@239.1.1.133:8772
+
+===
+
+#Sport
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",  USee Sports (85)
+rtp://@239.1.2.42:8194
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",  Usee Sports HD (905)
+rtp://@239.1.2.44:8122
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Sport",  Usee Sports 2 (86)
+rtp://@239.1.2.215:9220
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Sport",  Usee Sports 2 HD (906)
+rtp://@239.1.2.213:9210
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",  Bein1 (701)
+rtp://@239.1.1.217:9204
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",  Bein1 HD (970)
+rtp://@239.1.1.248:9494
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sport",  Bein2 (702)
+rtp://@239.1.1.221:9300
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sport",  Bein2 HD (971)
+rtp://@239.1.1.249:9496
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sport",  Bein3 (703)
+#rtp://@239.1.1.223:9312
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sport",  Bein3 HD (972)
+#rtp://@239.1.1.205:9204
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sport",  Fight Sport (704)
+rtp://@239.1.1.177:9036
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sport",  Fight Sport HD (976)
+rtp://@239.1.2.209:9196
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="Sport",  FoxSport (705)
+rtp://@239.1.1.103:8592
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="Sport",  FoxSport HD (973)
+rtp://@239.1.2.201:9174
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="Sport",  FoxSport2 (706)
+rtp://@239.1.1.101:8580
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="Sport",  FoxSport2 HD (974)
+rtp://@239.1.2.203:9180
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" group-title="Sport",  FoxSport3 (707)
+rtp://@239.1.1.53:8292
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" group-title="Sport",  FoxSport3 HD (975)
+rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sport",  NBA TV (708)
+rtp://@239.1.1.49:8268
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sport",  NBA TV HD (977)
+rtp://@239.1.2.210:9444
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_egg_big1.png" group-title="Sport",  EGG (709)
+rtp://@239.1.1.50:8274
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" group-title="Sport",  Golf+ (711)
+rtp://@239.1.1.140:8814
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" group-title="Sport",  Golf+ HD (979)
+rtp://@239.1.2.214:9214
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ1_big.png" group-title="Sport",  Champions TV1 (712)
+rtp://@239.1.2.217:9232
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ1_big.png" group-title="Sport",  Champions TV1 HD (980)
+rtp://@239.1.2.216:9226
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ2_big.png" group-title="Sport",  Champions TV2 (713)
+rtp://@239.1.2.219:9244
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ2_big.png" group-title="Sport",  Champions TV2 HD (981)
+rtp://@239.1.2.218:9238
+
+===
+
+#News
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" group-title="News",  Euronews (800)
+rtp://@239.1.1.193:9132
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN (801)
+rtp://@239.1.1.105:8604
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN HD (982)
+rtp://@239.1.1.246:9438
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bloomberg_big1.png" group-title="News",  Bloomberg (802)
+rtp://@239.1.1.199:9168
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pygxZTB/cnbc.png" group-title="News",  CNBC (803)
+rtp://@239.1.1.155:8904
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="News",  Channel News Asia (804)
+rtp://@239.1.1.65:8364
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="News",  Channel News Asia HD (984)
+rtp://@239.1.2.23:8112
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="News",  Aljazeera (805)
+rtp://@239.1.1.195:9144
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="News",  AlJazeera HD (985)
+rtp://@239.1.2.8:8022
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="News",  France24 (806)
+rtp://@239.1.1.191:9120
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="News",  France24 HD (986)
+rtp://@239.1.2.22:8106
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News",  DW (808)
+rtp://@239.1.1.187:9096
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News",  DW HD (988)
+rtp://@239.1.2.243:9360
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="News",  TVBS (809)
+rtp://@239.1.2.118:9410
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World Trial (810)
+rtp://@239.1.2.84:8296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia Trial (811)
+rtp://@239.1.2.92:9490
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia HD Trial (983)
+rtp://@239.1.2.94:9448
+
+
+===
+
+#Knowledge
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",  National Geographic (201)
+rtp://@239.1.1.169:8988
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",  National Geographic HD (920)
+rtp://239.1.1.243:9432
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",  Natgeo Wild (202)
+rtp://@239.1.1.35:8184
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",  Natgeo Wild HD (921)
+rtp://@239.1.1.207:9216
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" group-title="Knowledge",  Crime & Investigation (203)
+rtp://@239.1.1.59:8328
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="Knowledge",  CGTN Documentary (204)
+rtp://@239.1.1.121:8700
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="Knowledge",  CGTN Documentary HD (924)
+rtp://@239.1.2.4:7998
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="Knowledge",  History Channel (205)
+rtp://@239.1.1.57:8316
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="Knowledge",  History Channel HD (922)
+rtp://@239.1.1.23:8112
+#EXTINF:-1 tvg-logo="http://i.ibb.co/563fbzN/pandatv.png" group-title="Knowledge",  Panda TV (206)
+rtp://@239.1.1.208:9502
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",  Discovery Channel (207)
+rtp://@239.1.2.30:8154
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1TwVsY/discovery.jpg" group-title="Knowledge",  Discovery Channel HD (927)
+rtp://@239.1.2.78:7984
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua Trial (208)
+rtp://@239.1.2.90:9500
+
+===
+
+#Kids
+#EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="Kids",  Disney Channel (301)
+rtp://@239.1.1.45:8244
+#EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="Kids",  Disney Channel HD (930)
+rtp://@239.1.1.201:9180
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vBtnK3c/disneyjunior.png" group-title="Kids",  Disney Junior (302)
+rtp://@239.1.1.47:8256
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_davinci_big1.png" group-title="Kids",  Da Vinci Learning (303)
+rtp://@239.1.1.99:8568
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids",  Nickelodeon (304)
+rtp://@239.1.1.41:8220
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids",  Nick Junior (305)
+rtp://@239.1.1.159:8928
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" group-title="Kids",  Cartoon Network (306)
+rtp://@239.1.1.123:8712
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="Kids",  Boomerang (308)
+rtp://@239.1.1.73:8412
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duck_big1.png" group-title="Kids",  Duck TV (309)
+rtp://@239.1.1.63:8352
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks (310)
+rtp://@239.1.1.139:8808
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks HD (932)
+rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_babyfirst_big1.png" group-title="Kids",  Baby First (311)
+rtp://@239.1.1.157:8916
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="Kids",  Dunia Anak (312)
+rtp://@239.1.1.7:8016
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids",  MY KIDZ (313)
+rtp://@239.1.1.254:9338
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" group-title="Kids",  Spacetoon (314)
+rtp://@239.1.1.254:9338
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",  Horee! (315)
+rtp://@239.1.1.68:8382
+
+===
+
+#Music
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="Music",  MTV Live (450)
+rtp://@239.1.1.5:8004
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="Music",  MTV Live HD (948)
+rtp://@239.1.2.16:8070
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] (452)
+rtp://@239.1.1.173:9012
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] HD (942)
+rtp://@239.1.2.235:9342
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music",  Prambors (453)
+rtp://@239.1.1.227:9336
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_allegro_big1.png" group-title="Music",  T Music (454)
+#rtp://@239.1.1.163:8952
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser (459)
+rtp://@239.1.2.222:9256
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser HD (949)
+rtp://@239.1.2.221:9250
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradangdut_big.png" group-title="Music",  Citra Dangdut (535)
+rtp://@239.1.1.143:8832"
+
+===
+
+#Gen Entertainment
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gen Entertainment",  HGTV (500)
+rtp://@239.1.1.210:9506
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gen Entertainment",  HGTV HD (963)
+rtp://@239.1.2.34:8178
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" group-title="Gen Entertainment",  Blue Ant Extreme (501)
+rtp://@239.1.1.134:8778
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" group-title="Gen Entertainment",  Blue Ant Extreme HD (961)
+rtp://@239.1.1.112:8646
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",  Animax (502)
+rtp://@239.1.1.64:8358
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  Foxlife (504)
+rtp://@239.1.1.171:9000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  FOXlife HD (950)
+rtp://@239.1.1.209:9228
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Gen Entertainment",  Lifetime (505)
+rtp://@239.1.1.181:9266
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Gen Entertainment",  Lifetime HD (962)
+rtp://@239.1.1.25:8124
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="Gen Entertainment",  KIX (506)
+rtp://@239.1.1.81:8460
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="Gen Entertainment",  KIX HD (954)
+rtp://@239.1.2.207:9190
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" group-title="Gen Entertainment",  Warner (508)
+rtp://@239.1.2.9:8028
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" group-title="Gen Entertainment",  Warner HD (964)
+rtp://@239.1.2.244:9078
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Gen Entertainment",  AXN (509)
+rtp://@239.1.1.137:8796
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Gen Entertainment",  AXN HD (960)
+rtp://@239.1.1.245:9436
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" group-title="Gen Entertainment",  TV5Monde (510)
+rtp://@239.1.1.55:8300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Gen Entertainment",  Blue Ant Entertainment (511)
+rtp://@239.1.1.141:8820
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Gen Entertainment",  Blue Ant Entertainment HD (967)
+rtp://@239.1.2.76:9310
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",  Fox (512)
+rtp://@239.1.1.43:8232
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",  Fox HD (951)
+rtp://@239.1.1.247:9440
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  Fox Crime (513)
+rtp://@239.1.1.161:8940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  FOX Crime HD (956)
+rtp://@239.1.2.225:9318
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX (514)
+rtp://@239.1.1.1:7980
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX HD (957)
+rtp://@239.1.2.227:9324
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN (516)
+rtp://@239.1.1.135:8784
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN HD (955)
+rtp://@239.1.2.211:9202
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World (517)
+rtp://@239.1.1.167:8976
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World HD (958)
+rtp://@239.1.1.13:8052
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Gen Entertainment",  Aniplus (518)
+rtp://@239.1.1.117:8676
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big1.png" group-title="Gen Entertainment",  NHK World Premium (519)
+rtp://@239.1.1.165:8964
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Premium HD (953)
+rtp://@239.1.1.174:9018
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Japan (807)
+rtp://@239.1.1.236:9390
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Japan HD (987)
+rtp://@239.1.2.239:9354
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" group-title="Gen Entertainment",  Wakuwaku Japan (520)
+rtp://@239.1.1.75:8424
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" group-title="Gen Entertainment",  Wakuwaku Japan HD (959)
+rtp://@239.1.1.244:9434
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Gen Entertainment",  Star Chinese (521)
+rtp://@239.1.1.153:8892
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="Gen Entertainment",  K+ (523)
+rtp://@239.1.1.242:9426
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="Gen Entertainment",  K+ HD (952)
+rtp://@239.1.1.202:9186
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Formosa.png" group-title="Gen Entertainment",  Formosa (524)
+rtp://@239.1.2.198:9386
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/CTI.png" group-title="Gen Entertainment",  CTI Asia (526)
+rtp://@239.1.2.200:9168
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dunialain_big.png" group-title="Gen Entertainment",  Dunia Lain (527)
+rtp://@239.1.1.149:8868
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TMzwDBS/abc.png" group-title="Gen Entertainment",  ABC Australia (531)
+rtp://@239.1.1.33:8172
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_arirang_big.png" group-title="Gen Entertainment",  Arirang (532)
+rtp://@239.1.1.147:8856
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" group-title="Gen Entertainment",  CCTV4 (533)
+rtp://@239.1.1.115:8664
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Gen Entertainment",  Citra Drama (534)
+rtp://@239.1.1.44:8238
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Gen Entertainment",  Sony Gem (536)
+rtp://@239.1.1.86:8154
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Gen Entertainment",  Sony One (537)
+rtp://@239.1.1.172:9006
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njf0YZ6/zhejiang.jpg" group-title="Gen Entertainment",  Zhejiang International (538)
+rtp://@239.1.1.154:8898
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9NbxqYY/shenzen.jpg" group-title="Gen Entertainment",  Shenzen International (539)
+rtp://@239.1.1.156:8910
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/ETV-ASIA.png" group-title="Gen Entertainment",  ETTV Asia (540)
+rtp://@239.1.2.196:9406
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" group-title="Gen Entertainment",  NewTV (541)
+rtp://@239.1.2.40:8206
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Gen Entertainment",  Chinese Drama (542)
+rtp://@239.1.2.10:8306
+
+===
+
+#Religious
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_alquran_big1.png" group-title="Religious",  AlQuran Karim (850)
+rtp://@239.1.1.185:9084
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_khazanah_big1.png" group-title="Religious",  Khazanah (851)
+#rtp://@239.1.1.230:9356
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rodjatv_big1.png" group-title="Religious",  Rodja TV (852)
+rtp://@239.1.1.224:9320
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mtatv_big1.png" group-title="Religious",  MT@ TV (853)
+rtp://@239.1.2.234:9374
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mqtv_big1.png" group-title="Religious",  MQTV (854)
+rtp://@239.1.1.213:9252
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv9_big1.png" group-title="Religious",  TV9 (855)
+rtp://@239.1.1.150:8874
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_muhammadiyahtv_big1.png" group-title="Religious",  tvMu (856)
+rtp://@239.1.1.170:8994
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" group-title="Religious",  Tawaf TV (858)
+rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" group-title="Religious",  TV MUI (860)
+rtp://@239.1.2.52:8286
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" group-title="Religious",  Hope (870)
+rtp://@239.1.1.78:8442
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_uchannel_big1.png" group-title="Religious",  U Channel (871)
+rtp://@239.1.1.220:9522
+
+
+===
+
+#Lifestyle
+#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Lifestyle",  Lejel Home Shopping (106)
+rtp://@239.1.2.3:7992
+#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Lifestyle",  Lejel Home Shopping (113)
+rtp://@239.1.1.3:7992
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Lifestyle",  MNC Lifestyle (117)
+rtp://@239.1.2.54:8298
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="Lifestyle",  AFN (402)
+rtp://@239.1.2.12:8046
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="Lifestyle",  AFN HD (943)
+rtp://@239.1.2.13:8052
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_eatgo_big1.png" group-title="Lifestyle",  Eat & Go (403)
+rtp://@239.1.1.229:9350
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle",  Fashion TV (404)
+rtp://@239.1.1.79:8448
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle",  Fashion TV HD (940)
+rtp://@239.1.2.237:9348
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",  Nat Geo People (405)
+rtp://@239.1.1.67:8376
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",  Nat Geo People HD (941)
+rtp://@239.1.2.229:9330
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One (408)
+rtp://@239.1.1.127:8736
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One HD (947)
+rtp://@239.1.1.14:8058
+
+===
+
+#Usee
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" group-title="Usee",  Ruang Trampil (80)
+rtp://@239.1.1.126:8730
+#EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil HD (900)
+rtp://@239.1.1.111:8640
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idku2_big.png" group-title="Usee",  .idku (87)
+rtp://@239.1.2.68:8384
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idku2_big.png" group-title="Usee",  .idku HD (907)
+rtp://@239.1.2.70:8396
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="Usee",  USee Prime (88)
+rtp://@239.1.1.216:9270
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="Usee",  Usee Prime HD (908)
+rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="Usee",  USee Photo (89)
+rtp://@239.1.1.251:9498
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="Usee",  Usee Photo HD (909)
+rtp://@239.1.2.24:8118
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Lh6x7GG/useetoday.png" group-title="Usee",  USee Today (91)
+rtp://@239.1.2.50:8274
+
+===
+
+#Dolby HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Dolby HD",  HBO Dolby HD (935)
+rtp://@239.1.2.114:9428
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Dolby HD",  HBO Signature Dolby HD (936)
+rtp://@239.1.2.116:9404
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Dolby HD",  HBO Hits Dolby HD (937)
+rtp://@239.1.2.204:9182
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Dolby HD",  HBO Family Dolby HD (938)
+rtp://@239.1.2.202:9176
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Dolby HD",  Cinemax Dolby HD (939)
+rtp://@239.1.2.206:9186
