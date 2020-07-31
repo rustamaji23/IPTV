@@ -47,17 +47,17 @@ rtp://@239.1.1.69:8388
 rtp://@239.1.2.248:9398
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",  Daai TV (120)
 rtp://@239.1.1.179:9048
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6vKYJ1/atv.png" group-title="Local Channel",  ATV Trial (121)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/R6vKYJ1/atv.png" group-title="Local Channel",  ATV Trial (121)
 rtsp://10.6.41.20:554/live/ch20050515541243694190.sdp
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",  Bali TV (122)
 rtp://@239.1.1.72:8406
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",  JTV (123)
 rtp://@239.1.1.6:8010
-#EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="Local Channel",  Antara (124)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/847D14H/antara.jpg" group-title="Local Channel",  Antara (124)
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",  MYTV (125)
 rtp://@239.1.1.162:8946
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel Trial (126)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel Trial (126)
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
@@ -69,7 +69,7 @@ rtp://@239.1.1.238:9400
 rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",  Jowo HD (917)
 rtp://@239.1.2.212:9208
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Local Channel",  Insert (503)
+#EXTINF:-1 tvg-logo="http://www.transvision.co.id/img/channel/insert.png" group-title="Local Channel",  Insert (503)
 rtp://@239.1.1.113:8652
 
 ===
@@ -77,37 +77,37 @@ rtp://@239.1.1.113:8652
 #Movie
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Movie",  Movies Indihome (2)
 rtp://@239.1.2.223:9268
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO (601)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO (601)
 rtp://@239.1.1.95:8544
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO HD (991)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO HD (991)
 rtp://@239.1.1.203:9192
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature (602)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature (602)
 rtp://@239.1.1.93:8532
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature HD (993)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature HD (993)
 rtp://@239.1.2.249:9378
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax (603)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax (603)
 rtp://@239.1.1.87:8496
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax HD (996)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax HD (996)
 rtp://@239.1.2.247:9372
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits (604)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits (604)
 rtp://@239.1.1.91:8520
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits HD (992)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits HD (992)
 rtp://@239.1.1.215:9264
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family (605)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family (605)
 rtp://@239.1.1.89:8508
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family HD (994)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family HD (994)
 rtp://@239.1.2.245:9366
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="Movie",  Fox Movie (607)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/9WJBzBH/foxmovies.png" group-title="Movie",  Fox Movie (607)
 rtp://@239.1.1.11:8040
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="Movie",  Fox Movie HD (998)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/9WJBzBH/foxmovies.png" group-title="Movie",  Fox Movie HD (998)
 rtp://@239.1.1.211:9240
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="Movie",  Fox Family Movie (608)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="Movie",  Fox Family Movie (608)
 rtp://@239.1.1.175:9024
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="Movie",  Fox Family Movie HD (997)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="Movie",  Fox Family Movie HD (997)
 rtp://@239.1.1.237:9396
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",  Fox Action Movie (609)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",  Fox Action Movie (609)
 rtp://@239.1.1.125:8724
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",  Fox Action Movie HD (999)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",  Fox Action Movie HD (999)
 rtp://@239.1.1.190:9116
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_thrill_big.png" group-title="Movie",  Thrill (610)
 rtp://@239.1.1.83:8472
@@ -141,9 +141,9 @@ rtp://@239.1.1.131:8760
 rtp://@239.1.2.231:9336
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" group-title="Movie",  Star Chinese Movie Legend (623)
 rtp://@239.1.1.151:8880
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movie",  Red (626)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wgxTrzm/red.png" group-title="Movie",  Red (626)
 rtp://@239.1.1.114:8658
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movie",  Red HD (995)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wgxTrzm/red.png" group-title="Movie",  Red HD (995)
 rtp://@239.1.1.133:8772
 
 ===
@@ -209,13 +209,13 @@ rtp://@239.1.2.218:9238
 #News
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" group-title="News",  Euronews (800)
 rtp://@239.1.1.193:9132
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN (801)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN (801)
 rtp://@239.1.1.105:8604
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN HD (982)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN HD (982)
 rtp://@239.1.1.246:9438
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bloomberg_big1.png" group-title="News",  Bloomberg (802)
 rtp://@239.1.1.199:9168
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pygxZTB/cnbc.png" group-title="News",  CNBC (803)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pygxZTB/cnbc.png" group-title="News",  CNBC (803)
 rtp://@239.1.1.155:8904
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="News",  Channel News Asia (804)
 rtp://@239.1.1.65:8364
@@ -233,13 +233,13 @@ rtp://@239.1.2.22:8106
 rtp://@239.1.1.187:9096
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News",  DW HD (988)
 rtp://@239.1.2.243:9360
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="News",  TVBS (809)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="News",  TVBS (809)
 rtp://@239.1.2.118:9410
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World Trial (810)
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World Trial (810)
 rtp://@239.1.2.84:8296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia Trial (811)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia Trial (811)
 rtp://@239.1.2.92:9490
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia HD Trial (983)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia HD Trial (983)
 rtp://@239.1.2.94:9448
 
 
@@ -268,9 +268,9 @@ rtp://@239.1.1.23:8112
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",  Discovery Channel (207)
 rtp://@239.1.2.30:8154
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1TwVsY/discovery.jpg" group-title="Knowledge",  Discovery Channel HD (927)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/s1TwVsY/discovery.jpg" group-title="Knowledge",  Discovery Channel HD (927)
 rtp://@239.1.2.78:7984
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua Trial (208)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua Trial (208)
 rtp://@239.1.2.90:9500
 
 ===
@@ -302,7 +302,7 @@ rtp://@239.1.1.234:9222
 rtp://@239.1.1.157:8916
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="Kids",  Dunia Anak (312)
 rtp://@239.1.1.7:8016
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids",  MY KIDZ (313)
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mykids_big.png" group-title="Kids",  MY KIDZ (313)
 rtp://@239.1.1.254:9338
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" group-title="Kids",  Spacetoon (314)
 rtp://@239.1.1.254:9338
@@ -316,17 +316,17 @@ rtp://@239.1.1.68:8382
 rtp://@239.1.1.5:8004
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="Music",  MTV Live HD (948)
 rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] (452)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] (452)
 rtp://@239.1.1.173:9012
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] HD (942)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] HD (942)
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music",  Prambors (453)
 rtp://@239.1.1.227:9336
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_allegro_big1.png" group-title="Music",  T Music (454)
 #rtp://@239.1.1.163:8952
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser (459)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser (459)
 rtp://@239.1.2.222:9256
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser HD (949)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser HD (949)
 rtp://@239.1.2.221:9250
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradangdut_big.png" group-title="Music",  Citra Dangdut (535)
 rtp://@239.1.1.143:8832"
@@ -334,9 +334,9 @@ rtp://@239.1.1.143:8832"
 ===
 
 #Gen Entertainment
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gen Entertainment",  HGTV (500)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gen Entertainment",  HGTV (500)
 rtp://@239.1.1.210:9506
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gen Entertainment",  HGTV HD (963)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gen Entertainment",  HGTV HD (963)
 rtp://@239.1.2.34:8178
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" group-title="Gen Entertainment",  Blue Ant Extreme (501)
 rtp://@239.1.1.134:8778
@@ -344,9 +344,9 @@ rtp://@239.1.1.134:8778
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",  Animax (502)
 rtp://@239.1.1.64:8358
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  Foxlife (504)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  Foxlife (504)
 rtp://@239.1.1.171:9000
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  FOXlife HD (950)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  FOXlife HD (950)
 rtp://@239.1.1.209:9228
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Gen Entertainment",  Lifetime (505)
 rtp://@239.1.1.181:9266
@@ -366,29 +366,29 @@ rtp://@239.1.1.137:8796
 rtp://@239.1.1.245:9436
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" group-title="Gen Entertainment",  TV5Monde (510)
 rtp://@239.1.1.55:8300
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Gen Entertainment",  Blue Ant Entertainment (511)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Gen Entertainment",  Blue Ant Entertainment (511)
 rtp://@239.1.1.141:8820
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Gen Entertainment",  Blue Ant Entertainment HD (967)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Gen Entertainment",  Blue Ant Entertainment HD (967)
 rtp://@239.1.2.76:9310
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",  Fox (512)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",  Fox (512)
 rtp://@239.1.1.43:8232
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",  Fox HD (951)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",  Fox HD (951)
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  Fox Crime (513)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  Fox Crime (513)
 rtp://@239.1.1.161:8940
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  FOX Crime HD (956)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  FOX Crime HD (956)
 rtp://@239.1.2.225:9318
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX (514)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX (514)
 rtp://@239.1.1.1:7980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX HD (957)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX HD (957)
 rtp://@239.1.2.227:9324
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN (516)
 rtp://@239.1.1.135:8784
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN HD (955)
 rtp://@239.1.2.211:9202
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World (517)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World (517)
 rtp://@239.1.1.167:8976
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World HD (958)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World HD (958)
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Gen Entertainment",  Aniplus (518)
 rtp://@239.1.1.117:8676
@@ -410,9 +410,9 @@ rtp://@239.1.1.153:8892
 rtp://@239.1.1.242:9426
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="Gen Entertainment",  K+ HD (952)
 rtp://@239.1.1.202:9186
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Formosa.png" group-title="Gen Entertainment",  Formosa (524)
+#EXTINF:-1 tvg-logo="http://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/Formosa.png" group-title="Gen Entertainment",  Formosa (524)
 rtp://@239.1.2.198:9386
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/CTI.png" group-title="Gen Entertainment",  CTI Asia (526)
+#EXTINF:-1 tvg-logo="http://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/CTI.png" group-title="Gen Entertainment",  CTI Asia (526)
 rtp://@239.1.2.200:9168
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dunialain_big.png" group-title="Gen Entertainment",  Dunia Lain (527)
 rtp://@239.1.1.149:8868
@@ -422,21 +422,21 @@ rtp://@239.1.1.33:8172
 rtp://@239.1.1.147:8856
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" group-title="Gen Entertainment",  CCTV4 (533)
 rtp://@239.1.1.115:8664
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Gen Entertainment",  Citra Drama (534)
+#EXTINF:-1 tvg-logo="http://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Gen Entertainment",  Citra Drama (534)
 rtp://@239.1.1.44:8238
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Gen Entertainment",  Sony Gem (536)
 rtp://@239.1.1.86:8154
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Gen Entertainment",  Sony One (537)
 rtp://@239.1.1.172:9006
-#EXTINF:-1 tvg-logo="https://i.ibb.co/njf0YZ6/zhejiang.jpg" group-title="Gen Entertainment",  Zhejiang International (538)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/njf0YZ6/zhejiang.jpg" group-title="Gen Entertainment",  Zhejiang International (538)
 rtp://@239.1.1.154:8898
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9NbxqYY/shenzen.jpg" group-title="Gen Entertainment",  Shenzen International (539)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/9NbxqYY/shenzen.jpg" group-title="Gen Entertainment",  Shenzen International (539)
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/ETV-ASIA.png" group-title="Gen Entertainment",  ETTV Asia (540)
+#EXTINF:-1 tvg-logo="http://www.indihome.co.id/assets/images/channels/Minipack/Dinasty2/images/ETV-ASIA.png" group-title="Gen Entertainment",  ETTV Asia (540)
 rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" group-title="Gen Entertainment",  NewTV (541)
 rtp://@239.1.2.40:8206
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Gen Entertainment",  Chinese Drama (542)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Gen Entertainment",  Chinese Drama (542)
 rtp://@239.1.2.10:8306
 
 ===
@@ -460,7 +460,7 @@ rtp://@239.1.1.170:8994
 rtp://@239.1.2.236:9366
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" group-title="Religious",  TV MUI (860)
 rtp://@239.1.2.52:8286
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" group-title="Religious",  Hope (870)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tmKfKCs/hope.png" group-title="Religious",  Hope (870)
 rtp://@239.1.1.78:8442
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_uchannel_big1.png" group-title="Religious",  U Channel (871)
 rtp://@239.1.1.220:9522
@@ -497,7 +497,7 @@ rtp://@239.1.1.14:8058
 ===
 
 #Usee
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" group-title="Usee",  Ruang Trampil (80)
+#EXTINF:-1 tvg-logo="http://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" group-title="Usee",  Ruang Trampil (80)
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil HD (900)
 rtp://@239.1.1.111:8640
@@ -519,13 +519,13 @@ rtp://@239.1.2.50:8274
 ===
 
 #Dolby HD
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Dolby HD",  HBO Dolby HD (935)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9rY2tN/hbo.png" group-title="Dolby HD",  HBO Dolby HD (935)
 rtp://@239.1.2.114:9428
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Dolby HD",  HBO Signature Dolby HD (936)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Dolby HD",  HBO Signature Dolby HD (936)
 rtp://@239.1.2.116:9404
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Dolby HD",  HBO Hits Dolby HD (937)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8mgc3qG/hbohits.png" group-title="Dolby HD",  HBO Hits Dolby HD (937)
 rtp://@239.1.2.204:9182
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Dolby HD",  HBO Family Dolby HD (938)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Dolby HD",  HBO Family Dolby HD (938)
 rtp://@239.1.2.202:9176
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Dolby HD",  Cinemax Dolby HD (939)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Dolby HD",  Cinemax Dolby HD (939)
 rtp://@239.1.2.206:9186
